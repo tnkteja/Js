@@ -1,2 +1,2 @@
-(lodash vs plain javascript)[https://youmightnotneed.com/lodash/]
+[lodash vs plain javascript](https://youmightnotneed.com/lodash/)
 
